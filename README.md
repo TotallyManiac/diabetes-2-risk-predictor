@@ -1,1 +1,0 @@
-# diabetes-2-risk-predictor
