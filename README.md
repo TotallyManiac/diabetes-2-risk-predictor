@@ -109,12 +109,6 @@ This repository is a cleaned portfolio version of the supplied project materials
 - The Shanghai cohort contains only positive T2DM cases, preventing full binary-classification evaluation.
 - This is an **educational risk-prediction project**, not a clinically validated diagnostic system.
 
-## Team project & contribution
-
-This was a five-person university datathon project completed by **Rebecca Jensen, Van Nguyen, Gauri Sharma, Charlotte Dietiker and Antonius Antonius**.
-
-The project plan assigned **Gauri Sharma and Van Nguyen** to cross-validation, model building and evaluation across the test sets, with Gauri also contributing to continuation of the software prototype alongside team review and presentation work.
-
 ## Tech stack
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn` · `SHAP` · `Jupyter`
