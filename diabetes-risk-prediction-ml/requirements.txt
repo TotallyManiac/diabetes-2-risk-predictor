@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn==1.7.2
-shap
-openpyxl
-jupyter
-ipykernel
